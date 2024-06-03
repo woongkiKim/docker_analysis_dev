@@ -1,5 +1,6 @@
 import mysql.connector as mariadb
 
+## 웅기 추가
 
 class DBManager:
     def __init__(self, db_config):
